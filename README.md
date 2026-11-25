@@ -54,3 +54,7 @@ This is a rule-based NLP-style educational project, not a trained machine learni
 ## Author
 
 Ayushman Kumar — B.Tech CSE (AI & ML)
+
+## Web dashboard
+
+Run locally with `python -m streamlit run app.py`. The dashboard reuses the original analysis engine.
