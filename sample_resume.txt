@@ -1,0 +1,42 @@
+Rahul Sharma
+Rajkot, Gujarat | +91 98765 43210 | rahul.sharma@example.com
+linkedin.com/in/rahulsharma-dev | github.com/rahulsharma-dev
+
+Career Objective
+Motivated B.Tech CSE (AI & ML) student seeking an entry-level Data Science role where I can apply Python, machine learning and data analysis skills to solve real business problems.
+
+Education
+B.Tech in Computer Science and Engineering (AI, ML & DS), Marwadi University, Rajkot - CGPA: 8.4 (2023-2027)
+Higher Secondary (GSEB), 86%
+
+Technical Skills
+Languages: Python, C, Java, SQL
+Data and ML: Pandas, NumPy, Matplotlib, Scikit-learn, Machine Learning
+Tools: Git, GitHub, Excel, Linux
+Concepts: Data Structures, OOP, DBMS
+
+Projects
+House Price Prediction
+- Built a regression model using Python, Pandas and Scikit-learn on a dataset of 5000+ records.
+- Improved prediction accuracy by 14% through feature selection and hyperparameter tuning.
+- Visualized price trends with Matplotlib and shared the code on GitHub.
+
+Student Record Management System
+- Developed a console application in Python using file handling and OOP concepts.
+- Implemented search, update and delete operations for 200+ students.
+
+Sales Dashboard
+- Analyzed monthly sales data in Excel and SQL; created charts that reduced reporting time by 30%.
+
+Internship
+Data Analyst Intern, TechNova Solutions (Jun 2025 - Jul 2025)
+- Cleaned and analyzed customer data using Pandas and SQL.
+- Presented weekly insights to a team of 6 members.
+
+Certifications
+Python for Data Science - NPTEL
+Machine Learning Specialization - Coursera
+
+Achievements
+Winner, College Hackathon 2025
+Solved 120+ problems on LeetCode

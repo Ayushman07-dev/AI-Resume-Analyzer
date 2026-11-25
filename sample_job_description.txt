@@ -1,0 +1,13 @@
+Data Scientist - Junior (AI Products Team)
+
+We are looking for a Data Scientist to build and deploy machine learning models.
+
+Requirements:
+- Must have strong Python and Pandas skills.
+- Required: solid understanding of Statistics and Machine Learning.
+- Proficient in Scikit-learn and SQL.
+- Experience with Deep Learning using TensorFlow or PyTorch is required.
+- Familiarity with Docker and AWS is preferred.
+- Nice to have: NLP experience and Git.
+- Good communication and teamwork skills.
+- Data Visualization using Tableau or Matplotlib.

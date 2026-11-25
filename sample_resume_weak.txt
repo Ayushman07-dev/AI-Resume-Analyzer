@@ -1,0 +1,10 @@
+Priya Mehta
+priya.mehta@example.com
+
+I am a hardworking student. I know Python and some HTML. I am good at computers and learning new things quickly.
+
+Education
+B.Tech CSE, 2nd year
+
+Skills
+Python, HTML, C, MS Excel
