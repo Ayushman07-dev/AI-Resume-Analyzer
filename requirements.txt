@@ -1,2 +1,4 @@
 # Optional dependency for PDF resume extraction
 pypdf
+
+streamlit
